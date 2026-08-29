@@ -1,0 +1,12 @@
+{
+  "name": "meu-bot-whatsapp",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@itsliaaa/baileys": "0.3.18-final",
+    "pino": "^9.6.0"
+  }
+}
